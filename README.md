@@ -1,10 +1,10 @@
-# This is my awesome README Generator
+# This is my awesome README generator
 
   ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
  
 ### Description
-Easy way to create a readme file for your repositories,
+creates a read me for your project,
 
 ### Table of Contents
 1. [ Description. ](##Description)
@@ -16,10 +16,10 @@ Easy way to create a readme file for your repositories,
 7. [ GitHub. ](##GitHub)
 
 ### Installation
-package.json,
+none,
 
 ### Usage
-Follow the prompts,
+follow prompts,
 
 ### License
 MIT,
@@ -33,6 +33,6 @@ undefined,
 ### Github
 GitHub Profile: https://github.com/lrendon12
      
-For additional information, please reach out to me at lrendon1210@gmail.com,
+For additional information, please reach out to me at lrendon1220@gmail.com,
 
 
