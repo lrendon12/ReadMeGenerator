@@ -1,10 +1,10 @@
-# This is my awesome README generator
+# This is my readme generator
 
   ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
  
 ### Description
-creates a read me for your project,
+generates a read me ,
 
 ### Table of Contents
 1. [ Description. ](##Description)
@@ -33,6 +33,6 @@ undefined,
 ### Github
 GitHub Profile: https://github.com/lrendon12
      
-For additional information, please reach out to me at lrendon1220@gmail.com,
+For additional information, please reach out to me at lrendon1210@gmail.com,
 
 
