@@ -15,6 +15,7 @@ ${data.description},
 4. [ License. ](##license)
 5. [ Contributor. ](##contributor)
 6. [ Test. ](##test)
+7. [ GitHub & Email ]
 
 ### Installation
 ${data.installation},
@@ -29,10 +30,11 @@ ${data.license},
 ${data.contributor}
 
 ### Test
-${data.test}
+${data.test},
 
-
-
+### Github
+GitHub Profile: https://github.com/${data.gitHub}\n     
+For additional information, please reach out to me at ${data.email},
 
 
 `;
