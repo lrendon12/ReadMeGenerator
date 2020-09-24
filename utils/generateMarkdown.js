@@ -15,7 +15,7 @@ ${data.description},
 4. [ License. ](##license)
 5. [ Contributor. ](##contributor)
 6. [ Test. ](##test)
-7. [ GitHub & Email ]
+7. [ GitHub. ](##GitHub)
 
 ### Installation
 ${data.installation},
